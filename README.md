@@ -1,5 +1,14 @@
 # alias-broken
 
+
+
+
+## FIXED, see HEAD commit
+
+
+
+> problem before
+
 this is a mini example to reproduce alias broken. See HEAD, in main.ts
 ```diff
 diff --git a/portal/src/main.ts b/portal/src/main.ts
