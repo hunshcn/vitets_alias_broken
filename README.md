@@ -3,7 +3,7 @@
 
 
 
-## FIXED, see HEAD commit
+## FIXED, see [b0161fd](https://github.com/hunshcn/vitets_alias_broken/commit/b0161fd1abe0f199484e111e4e1f6117840469ee) commit
 
 
 
